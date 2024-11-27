@@ -1,0 +1,182 @@
+[
+    {
+        "base": "begin",
+        "past": "began",
+        "participle": "begun",
+        "meaning": "시작하다"
+    },
+    {
+        "base": "break",
+        "past": "broke",
+        "participle": "broken",
+        "meaning": "부수다"
+    },
+    {
+        "base": "choose",
+        "past": "chose",
+        "participle": "chosen",
+        "meaning": "선택하다"
+    },
+    {
+        "base": "drink",
+        "past": "drank",
+        "participle": "drunk",
+        "meaning": "마시다"
+    },
+    {
+        "base": "drive",
+        "past": "drove",
+        "participle": "driven",
+        "meaning": "운전하다"
+    },
+    {
+        "base": "eat",
+        "past": "ate",
+        "participle": "eaten",
+        "meaning": "먹다"
+    },
+    {
+        "base": "fall",
+        "past": "fell",
+        "participle": "fallen",
+        "meaning": "떨어지다"
+    },
+    {
+        "base": "fly",
+        "past": "flew",
+        "participle": "flown",
+        "meaning": "날다"
+    },
+    {
+        "base": "forget",
+        "past": "forgot",
+        "participle": "forgotten",
+        "meaning": "잊다"
+    },
+    {
+        "base": "give",
+        "past": "gave",
+        "participle": "given",
+        "meaning": "주다"
+    },
+    {
+        "base": "go",
+        "past": "went",
+        "participle": "gone",
+        "meaning": "가다"
+    },
+    {
+        "base": "grow",
+        "past": "grew",
+        "participle": "grown",
+        "meaning": "자라다"
+    },
+    {
+        "base": "know",
+        "past": "knew",
+        "participle": "known",
+        "meaning": "알다"
+    },
+    {
+        "base": "ride",
+        "past": "rode",
+        "participle": "ridden",
+        "meaning": "타다"
+    },
+    {
+        "base": "see",
+        "past": "saw",
+        "participle": "seen",
+        "meaning": "보다"
+    },
+    {
+        "base": "shake",
+        "past": "shook",
+        "participle": "shaken",
+        "meaning": "흔들다"
+    },
+    {
+        "base": "sing",
+        "past": "sang",
+        "participle": "sung",
+        "meaning": "노래하다"
+    },
+    {
+        "base": "speak",
+        "past": "spoke",
+        "participle": "spoken",
+        "meaning": "말하다"
+    },
+    {
+        "base": "do",
+        "past": "did",
+        "participle": "done",
+        "meaning": "하다"
+    },
+    {
+        "base": "swim",
+        "past": "swam",
+        "participle": "swum",
+        "meaning": "수영하다"
+    },
+    {
+        "base": "take",
+        "past": "took",
+        "participle": "taken",
+        "meaning": "가져가다"
+    },
+    {
+        "base": "write",
+        "past": "wrote",
+        "participle": "written",
+        "meaning": "쓰다"
+    },
+    {
+        "base": "wear",
+        "past": "wore",
+        "participle": "worn",
+        "meaning": "입다"
+    },
+    {
+        "base": "blow",
+        "past": "blew",
+        "participle": "blown",
+        "meaning": "불다"
+    },
+    {
+        "base": "hide",
+        "past": "hid",
+        "participle": "hidden",
+        "meaning": "숨다"
+    },
+    {
+        "base": "steal",
+        "past": "stole",
+        "participle": "stolen",
+        "meaning": "훔치다"
+    },
+    {
+        "base": "tear",
+        "past": "tore",
+        "participle": "torn",
+        "meaning": "찢다"
+    },
+    {
+        "base": "wake",
+        "past": "woke",
+        "participle": "woken",
+        "meaning": "깨다"
+    },
+    {
+        "base": "freeze",
+        "past": "froze",
+        "participle": "frozen",
+        "meaning": "얼다"
+    },
+    {
+        "base": "rise",
+        "past": "rose",
+        "participle": "risen",
+        "meaning": "오르다"
+    }
+]
